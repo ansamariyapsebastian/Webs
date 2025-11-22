@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+pyttsx3
+sentencepiece
